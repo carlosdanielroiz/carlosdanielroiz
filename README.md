@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Carlos Daniel 👋🏼
 
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://carlosdanielroiz.vercel.app/)
 [![Yotube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCqb2Wir4FZ88qkD1j4ju9g)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosdanielroiz/)
 
@@ -16,5 +17,5 @@
 
 ## Informações para contato
 
-[![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdaniellr.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5538999603639)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdaniellr.dev@gmail.com)
+[![WhatsAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5538999603639)
